@@ -1,0 +1,26 @@
+{
+  "name": "DjangoReactProject",
+  "version": "0.0.0",
+  "description": "Trying out to set up reactjs with webpack and babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aronhalt/DjangoReactProject.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Brandon Aronhalt",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/aronhalt/DjangoReactProject/issues"
+  },
+  "devDependencies": {
+    "gulp": "~3.9.1",
+    "gulp-uglify": "~2.0.0",
+    "gulp-minify-css": "~1.2.4"
+  }
+}
